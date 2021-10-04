@@ -88,10 +88,10 @@ params:
         subtitle: A glimpse into the performance of outperforming stocks
         title: Financial Stock
         url: blogs/Blog2
-      - image: pic03.jpg
-        subtitle: Lorem Etiam Nullam
-        title: Magna
-        url: blogs/magna
+      - image: vote.jpg
+        subtitle: How will the German elections look like? An overview
+        title: Opinion polls for the 2021 German elections
+        url: blogs/blog5
       - image: pic05.jpg
         subtitle: Ipsum Dolor Sit Amet
         title: Consequat
