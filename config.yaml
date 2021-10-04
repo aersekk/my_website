@@ -103,11 +103,9 @@ params:
   two:
     buttonText: Get Started
     enable: yes
-    subtitle: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero.
-      \n    Mauris aliquet magna magna sed nunc rhoncus pharetra. \n    Pellentesque
-      condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia
-      pellentesque lorem ipsum dolor. \n    Nullam et orci eu lorem consequat tincidunt.
-      Vivamus et sagittis libero.\n    Mauris aliquet magna magna sed nunc rhoncus
-      amet pharetra et feugiat tempus."
-    title: Massa libero
-    url: blogs
+    subtitle: "I am a very funny guy, I was born in Hungary but spent my life in four different countries.\
+    Even if I am very young, I probably visited more countries than many people combined; at the young age of 23 I\
+    already visited 67 or 68 countries, always so hard to keep track! In my free time, I enjoy golfing like an old man and\
+    listening to techno music like a teenager. I like fruits a lot."
+    title: Something funny about me
+    #url: blogs
