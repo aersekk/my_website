@@ -39,7 +39,7 @@ nyse_sector</code></pre>
 nyse_sector %&gt;%
     ggplot(aes(x = number,y= reorder(sector, number)))+ geom_col() +
     labs(title = &quot;Number of companies per sector (Desc)&quot;, x = &quot;Number of companies&quot;, y = &quot;Sectors&quot;)</code></pre>
-<p><img src="/blogs/blog2_files/figure-html/companies_per_sector-1.png" width="672" /></p>
+<p><img src="/projects/blog2_files/figure-html/companies_per_sector-1.png" width="672" /></p>
 <p>Next, let’s choose the <a href="https://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average">Dow Jones Industrial Aveareg (DJIA)</a> stocks and their ticker symbols and download some data. Besides the thirty stocks that make up the DJIA, we will also add <code>SPY</code> which is an SP500 ETF (Exchange Traded Fund). The following code</p>
 <pre class="r"><code>djia_url &lt;- &quot;https://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average&quot;
 
@@ -86,7 +86,7 @@ myStocks &lt;- tickers %&gt;%
   group_by(symbol) 
 
 glimpse(myStocks) # examine the structure of the resulting data frame</code></pre>
-<pre><code>## Rows: 159,934
+<pre><code>## Rows: 161,646
 ## Columns: 8
 ## Groups: symbol [31]
 ## $ symbol   &lt;chr&gt; &quot;MMM&quot;, &quot;MMM&quot;, &quot;MMM&quot;, &quot;MMM&quot;, &quot;MMM&quot;, &quot;MMM&quot;, &quot;MMM&quot;, &quot;MMM&quot;, &quot;MMM&quot;…
@@ -96,7 +96,7 @@ glimpse(myStocks) # examine the structure of the resulting data frame</code></pr
 ## $ low      &lt;dbl&gt; 47.03125, 45.31250, 45.56250, 47.15625, 49.96875, 50.00000, 5…
 ## $ close    &lt;dbl&gt; 47.18750, 45.31250, 46.62500, 50.37500, 51.37500, 51.12500, 5…
 ## $ volume   &lt;dbl&gt; 2173400, 2713800, 3699400, 5975800, 4101200, 3863800, 2357600…
-## $ adjusted &lt;dbl&gt; 27.17953, 26.09954, 26.85552, 29.01549, 29.59148, 29.44747, 2…</code></pre>
+## $ adjusted &lt;dbl&gt; 27.17952, 26.09953, 26.85555, 29.01548, 29.59148, 29.44748, 2…</code></pre>
 <pre class="r"><code>#calculate daily returns
 myStocks_returns_daily &lt;- myStocks %&gt;%
   tq_transmute(select     = adjusted, 
@@ -146,7 +146,7 @@ summary_monthly_returns</code></pre>
 <p>Plot a density plot, using <code>geom_density()</code>, for each of the stocks</p>
 <pre class="r"><code>myStocks_returns_monthly %&gt;% 
   ggplot(aes(x = monthly_returns, fill = symbol)) + geom_density() + facet_grid(rows = vars(symbol)) + labs(title = &quot;Density Plot of Stock&#39;s Monthly Return&quot;, x = &quot;Monthly Returns&quot;, y =&quot;Density&quot;)</code></pre>
-<p><img src="/blogs/blog2_files/figure-html/density_monthly_returns-1.png" width="672" /></p>
+<p><img src="/projects/blog2_files/figure-html/density_monthly_returns-1.png" width="672" /></p>
 <pre class="r"><code>myStocks_returns_monthly %&gt;% 
   ggplot(aes(x = monthly_returns, fill = symbol)) + 
   geom_density() + 
@@ -155,7 +155,7 @@ summary_monthly_returns</code></pre>
   scale_x_continuous(labels = scales::percent_format(accuracy = 1)) + 
   coord_cartesian(xlim=c(-0.2,0.2)) +
   NULL</code></pre>
-<p><img src="/blogs/blog2_files/figure-html/density_monthly_returns-2.png" width="672" /></p>
+<p><img src="/projects/blog2_files/figure-html/density_monthly_returns-2.png" width="672" /></p>
 <p>What can you infer from this plot? Which stock is the riskiest? The least risky?</p>
 <blockquote>
 
@@ -170,7 +170,7 @@ summary_monthly_returns</code></pre>
   scale_y_continuous(labels = scales::percent_format(accuracy = 1)) + 
   labs(title=&quot;Expected monthly return according to risk&quot;, x= &quot;Risk&quot;, y=&quot;Expected monthly return&quot;) + 
   NULL</code></pre>
-<p><img src="/blogs/blog2_files/figure-html/risk_return_plot-1.png" width="672" /></p>
+<p><img src="/projects/blog2_files/figure-html/risk_return_plot-1.png" width="672" /></p>
 <p>What can you infer from this plot? Are there any stocks which, while being riskier, do not have a higher expected return?</p>
 <blockquote>
 
