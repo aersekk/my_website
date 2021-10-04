@@ -80,14 +80,14 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: PictureforR.jpg
+      - image: PictureforR.jpeg
         subtitle: Biography
         title: About me
         url: blogs/blog4
-      - image: pic02.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Tempus
-        url: blogs/tempus
+      - image: stock.jpg
+        subtitle: A glimpse into the performance of outperforming stocks
+        title: Financial Stock
+        url: blogs/Blog2
       - image: pic03.jpg
         subtitle: Lorem Etiam Nullam
         title: Magna
