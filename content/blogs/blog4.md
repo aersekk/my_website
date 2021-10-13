@@ -5,7 +5,6 @@ categories:
 date: "2017-10-31T22:42:51-05:00"
 description: Biography
 draft: false
-image: PictureforR.jpeg
 keywords: ""
 slug: blog4
 title: About me
