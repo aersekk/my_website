@@ -92,7 +92,7 @@ params:
         subtitle: How will the German elections look like? An overview
         title: Opinion polls for the 2021 German elections
         url: blogs/blog5
-      - image: pic05.jpg
+      - image: essay.jpg
         #subtitle: 
         title: How can machine learning methods be used to objectively measure the presence and severity of tinnitus? What are its implications?  
         url: blogs/essay.pdf
