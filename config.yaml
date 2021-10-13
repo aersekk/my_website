@@ -95,7 +95,7 @@ params:
       - image: pic05.jpg
         #subtitle: 
         title: How can machine learning methods be used to objectively measure the presence and severity of tinnitus? What are its implications?  
-        url: blogs/ipsum
+        url: blogs/essay.pdf
       - image: pic06.jpg
         subtitle: Curriculum vitae
         title: My Professional Experience
