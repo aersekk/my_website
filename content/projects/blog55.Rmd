@@ -3,11 +3,13 @@ title: "Opinion polls for the 2021 German elections"
 author: "Akos"
 date: "9/17/2021"
 output: html_document
-slug: blog5
+slug: blog55
+image: vote.jpg
 categories:
 - ''
 - ''
 ---
+
 
 ```{r load-libraries, echo=FALSE, message=FALSE, warning=FALSE}
 library(tidyverse)  # Load ggplot2, dplyr, and all the other tidyverse packages

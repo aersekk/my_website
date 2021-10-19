@@ -3,7 +3,8 @@ title: "Returns of financial stocks"
 author: "Akos"
 date: "9/17/2021"
 output: html_document
-slug: blog2
+slug: blog22
+image: stock.jpg
 categories:
 - ''
 - ''
