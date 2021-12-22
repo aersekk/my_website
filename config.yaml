@@ -1,0 +1,110 @@
+baseURL: https://akosersek.netlify.app/
+languageCode: en-us
+title: Portfolio Website for Akos
+theme: forty
+googleAnalytics: ''
+disqusShortname: ''
+params:
+  banner:
+    buttonText: Get Started
+    subtitle: |-
+      MFA2022 Student at LBS, Warwick Graduate
+    title: Hi, my name is Akos. welcome to my Portfolio!
+  blog: {}
+  contact:
+    address:
+      - city: London
+        country: UK
+        street: Regent's Park, NW1 4SA
+        title: Address
+    buttonClear: Clear
+    buttonSend: Send message
+    email:
+      - email: aersekk@gmail.com
+        title: Email
+    enable: yes
+    phone:
+      - phone: (44) 7588 336858
+        title: Phone
+  custom_css: []
+  custom_js: []
+  description:
+  error404:
+    heading: Page couldn't be found
+    text: Please visit [this page](/)
+  favicon: favicon.ico
+  footer:
+    copyright: Company Name
+    enable: yes
+    quicklinks:
+      - alt: HTML5 UP
+        text: 'Design: '
+        url: https://www.html5up.net
+    social:
+      # icon: fa-twitter
+       # label: Twitter
+        #url: https://www.twitter.com
+      # icon: fa-facebook
+       # label: Facebook
+        #url: https://www.facebook.com
+      # icon: fa-instagram
+       # label: Instagram
+        #url: https://www.instagram.com
+      - icon: fa-github
+        label: GitHub
+        url: https://github.com/aersekk
+      - icon: fa-linkedin
+        label: LinkedIn
+        url: https://www.linkedin.com/in/ersekakos/
+  image: ''
+  name: Akos Ersek
+  navigation:
+    button1:
+      - name: Projects
+        url: projects
+    #button2:
+      # name: Log In
+       # url: '#'
+    links:
+      - name: Home
+        url: '#'
+      # name: Blogs
+       # url: blogs
+      # name: Generic Blog
+       # url: blogs/ipsum
+      #name: Elements
+        #url: elements.html
+    menu: Menu
+    subtitle: Personal Website
+    title: Akos Ersek
+  tiles:
+    enable: yes
+    showcase:
+      - image: PictureforR.jpeg
+        subtitle: Biography
+        title: About me
+        url: blogs/blog4
+      - image: stock.jpg
+        subtitle: A glimpse into the performance of outperforming stocks
+        title: Financial Stocks
+        url: blogs/blog2
+      - image: vote.jpg
+        subtitle: How will the German elections look like? An overview
+        title: Opinion polls for the 2021 German elections
+        url: blogs/blog5
+      - image: essay.jpg
+        #subtitle: 
+        title: How can machine learning methods be used to objectively measure the presence and severity of tinnitus? What are its implications?  
+        url: blogs/essay.pdf
+      - image: pic06.jpg
+        subtitle: Curriculum vitae
+        title: My Professional Experience
+        url: blogs/curriculum.pdf
+  two:
+    #buttonText: Get Started
+    enable: yes
+    subtitle: "I was born in Hungary, and I am a very funny guy. So far I lived in four different countries, but my favourite one has been Ghana.\
+    I travel a lot, and it is something that I cherish about having been able to do growing up. If I had to highlight the favourite country that\
+    I have been to it would be Kenya.In my free time, I enjoy golfing, listening to techno music and working out."
+    title: Something funny about me
+    #url: blogs
