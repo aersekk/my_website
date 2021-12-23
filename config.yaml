@@ -9,7 +9,7 @@ params:
     buttonText: Get Started
     subtitle: |-
       MFA2022 Student at LBS, Warwick Graduate
-    title: Hi, my name is Akos. welcome to my Portfolio!
+    title: Hi, my name is Akos. Welcome to a website covering some of my adventures!
   blog: {}
   contact:
     address:
@@ -62,9 +62,9 @@ params:
     button1:
       - name: Projects
         url: projects
-    #button2:
-      # name: Log In
-       # url: '#'
+    button2:
+      - name: Hobbies
+        url: hobbies
     links:
       - name: Home
         url: '#'
