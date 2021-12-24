@@ -16,11 +16,11 @@ title: About me
  
 I was born in **Hungary**, the country mainly known for its [Goulash soup](https://en.wikipedia.org/wiki/Goulash), and the gorgeous Parliament. 
 
-![](https://en.wikipedia.org/wiki/Hungarian_Parliament_Building#/media/File:Exterior_view_-_daytime.jpg).
+![](https://upload.wikimedia.org/wikipedia/commons/2/22/Exterior_view_-_daytime.jpg).
 
 I actually grew up in a small town next to Budapest where I spent the first 10 years of my life. I attended  an elementary school called Huzella Tivadar Általanos Iskola, named after a famous Hungarian Biologist and Reseracher.
 
-![](https://hu.wikipedia.org/wiki/Huzella_Tivadar#/media/Fájl:Huzella_Tivadar.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/0/0e/Huzella_Tivadar.jpg)
 
 I started learning English and doing sports early on, which lead me to try a lot of interesting sports throughout my life. These include:
 
