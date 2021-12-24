@@ -100,7 +100,18 @@ params:
         subtitle: Curriculum Vitae
         title: My Professional Experience
         url: blogs/curriculum.pdf
-    #A break tile
+
+  two:
+    #buttonText: Get Started
+    enable: yes
+    subtitle: "I was born in Hungary, and I am a very funny guy. So far I lived in four different countries, but my favourite one has been Ghana.\
+    I travel a lot, and it is something that I cherish about having been able to do growing up. If I had to highlight the favourite country that\
+    I have been to it would be Kenya.In my free time, I enjoy golfing, listening to techno music and working out."
+    title: Something funny about me
+    
+tiles:
+    enable: yes
+    showcase:
       - image: essay.jpg
         title: Works that I am proud of
         url:
@@ -114,11 +125,3 @@ params:
         subtitle:
         title:
         url:
-  two:
-    #buttonText: Get Started
-    enable: yes
-    subtitle: "I was born in Hungary, and I am a very funny guy. So far I lived in four different countries, but my favourite one has been Ghana.\
-    I travel a lot, and it is something that I cherish about having been able to do growing up. If I had to highlight the favourite country that\
-    I have been to it would be Kenya.In my free time, I enjoy golfing, listening to techno music and working out."
-    title: Something funny about me
-    #url: blogs
