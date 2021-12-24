@@ -41,15 +41,15 @@ My life came to a sudden change when at the age of 13 my family moved to Ghana, 
 
 I studied in an international educational system from the age of 14-18, which allowed me to study interesting subjects such as Economics, Global Politics, and Media & Design.
 
-To close this chapter, heres a gorgeous picture of the swimming pool I spent 3 of my mornings almost every week for 3.5 year. 
+To close this chapter, heres a gorgeous picture of the swimming pool I spent 3 of my mornings almost every week for 3.5 years. 
 
 ![](https://www.lincoln.edu.gh/uploaded/photos/News_Story_Photos/2014-2015_SY/2015_February/SwimMeetFebruary20151.jpg)
 
 #### University
 
-I completed my bachelors at Warwick Business School where I studied Management with a specialization in finance. Whilst here, I was part of Warwick Congress' Careers & Sponsorship team for 2 years, pitching corporate partnerships to financial and non-financial sponsors. The society organised academic talks, workshops, company presentations and a conference to students of the university, hoping to bridge the gap between finance, law, politics and econimcs in academia.
+I completed my bachelors at Warwick Business School where I studied Management with a specialization in Finance. Whilst here, I was part of Warwick Congress' Careers & Sponsorship team for 2 years, pitching corporate partnerships to financial and non-financial sponsors. The society organised academic talks, workshops, company presentations and a conference to students of the university, hoping to bridge the gap between finance, law, politics and econimcs in academia.
 
-![] (https://qtem.org/content//academicpartners/39/media/wbs041016-89.jpg)
+![](https://qtem.org/content//academicpartners/39/media/wbs041016-89.jpg)
 
 
 Despite being finance-focused I still enjoy learning about *astrology*, *physics*, or *medicine*, for example. My general curiosity drives me forward every day and makes me motivated to undertake new experiences, and it is one of the main reasons I am at LBS today.
