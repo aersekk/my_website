@@ -81,19 +81,19 @@ params:
     enable: yes
     showcase:
       - image: PictureforR.jpeg
-        subtitle: Biography
+        subtitle: A short summary about my long life
         title: About me
         url: blogs/blog4
-      - image: stock.jpg
-        subtitle: A glimpse into the performance of outperforming stocks
-        title: Financial Stocks
+      - image: hobbies.jpg
+        subtitle: Things that I love to do
+        title: My hobbies
         url: blogs/blog2
-      - image: vote.jpg
-        subtitle: How will the German elections look like? An overview
-        title: Opinion polls for the 2021 German elections
+      - image: lbs.jpg
+        subtitle: A short summary of my long history of education
+        title: Education
         url: blogs/blog5
       - image: essay.jpg
-        #subtitle: 
+        subtitle: My best work at university, based on a personal interest.
         title: How can machine learning methods be used to objectively measure the presence and severity of tinnitus? What are its implications?  
         url: blogs/essay.pdf
       - image: pic06.jpg
