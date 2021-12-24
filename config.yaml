@@ -58,13 +58,13 @@ params:
         url: https://www.linkedin.com/in/ersekakos/
   image: ''
   name: Akos Ersek
-  navigation:
-    button1:
-      - name: Projects
-        url: projects
-    button2:
-      - name: Hobbies
-        url: hobbies
+  #navigation:
+    #button1:
+     # - name: Projects
+      #  url: projects
+    #button2:
+      #- name: Hobbies
+       # url: hobbies
     links:
       - name: Home
         url: '#'
@@ -74,7 +74,7 @@ params:
        # url: blogs/ipsum
       #name: Elements
         #url: elements.html
-    menu: Menu
+    #menu: Menu
     subtitle: Personal Website
     title: Akos Ersek
   tiles:
@@ -97,9 +97,13 @@ params:
         title: How can machine learning methods be used to objectively measure the presence and severity of tinnitus? What are its implications?  
         url: blogs/essay.pdf
       - image: pic06.jpg
-        subtitle: Curriculum vitae
+        subtitle: Curriculum Vitae
         title: My Professional Experience
         url: blogs/curriculum.pdf
+      - image:
+        subtitle:
+        title:
+        url:
   two:
     #buttonText: Get Started
     enable: yes
