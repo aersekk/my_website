@@ -109,7 +109,7 @@ params:
     I have been to it would be Kenya.In my free time, I enjoy golfing, listening to techno music and working out."
     title: Something funny about me
     
-tiles:
+  three:
     enable: yes
     showcase:
       - image: essay.jpg
