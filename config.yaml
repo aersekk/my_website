@@ -80,26 +80,36 @@ params:
   tiles:
     enable: yes
     showcase:
+    #Biography
       - image: PictureforR.jpeg
         subtitle: A short summary about my long life
         title: About me
         url: blogs/blog4
+    #Hobbies
       - image: hobbies.jpg
         subtitle: Things that I love to do
         title: My hobbies
         url: blogs/blog2
+    #Education History
       - image: lbs.jpg
         subtitle: A short summary of my long history of education
         title: Education
         url: blogs/blog5
-      - image: essay.jpg
-        subtitle: My best work at university, based on a personal interest.
-        title: How can machine learning methods be used to objectively measure the presence and severity of tinnitus? What are its implications?  
-        url: blogs/essay.pdf
+    # CV
       - image: pic06.jpg
         subtitle: Curriculum Vitae
         title: My Professional Experience
         url: blogs/curriculum.pdf
+    #A break tile
+      - image: essay.jpg
+        title: Works that I am proud of
+        url:
+    
+      - image: essay.jpg
+        subtitle: My best work at university, based on a personal interest.
+        title: How can machine learning methods be used to objectively measure the presence and severity of tinnitus? What are its implications?  
+        url: blogs/essay.pdf
+  
       - image:
         subtitle:
         title:

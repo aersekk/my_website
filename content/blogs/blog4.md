@@ -16,7 +16,7 @@ title: About me
  
 I was born in **Hungary**, the country mainly known for its [Goulash soup](https://en.wikipedia.org/wiki/Goulash), and the gorgeous Parliament. 
 
-![](https://upload.wikimedia.org/wikipedia/commons/2/22/Exterior_view_-_daytime.jpg).
+![](https://upload.wikimedia.org/wikipedia/commons/2/22/Exterior_view_-_daytime.jpg)
 
 I actually grew up in a small town next to Budapest where I spent the first 10 years of my life. I attended  an elementary school called Huzella Tivadar Általanos Iskola, named after a famous Hungarian Biologist and Reseracher.
 
@@ -54,10 +54,10 @@ I completed my bachelors at Warwick Business School where I studied Management w
 
 Despite being finance-focused I still enjoy learning about *astrology*, *physics*, or *medicine*, for example. My general curiosity drives me forward every day and makes me motivated to undertake new experiences, and it is one of the main reasons I am at LBS today.
 
-##### For more details about my achievements up to date refer to the tiles after this biography on the main page.##### 
+##### For more details about my achievements up to date refer to the tiles after this biography on the main page.
 
 ### Future
 
-Currently, I am completing my master's degree at [LBS](https://www.london.edu), despite only being 5 days into the program. I hope to remain part of the amazing community at *London Business School*, and achieve great things that are yet to come. 
+Currently, I am completing my master's degree at [LBS](https://www.london.edu). I hope to remain part of the amazing community at *London Business School*, and achieve great things that are yet to come. 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/4/47/RS9327_LBS_Standard_Logo_RGB_AW-hpr.jpg)
