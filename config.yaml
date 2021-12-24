@@ -58,7 +58,7 @@ params:
         url: https://www.linkedin.com/in/ersekakos/
   image: ''
   name: Akos Ersek
-  #navigation:
+  navigation:
     #button1:
      # - name: Projects
       #  url: projects
