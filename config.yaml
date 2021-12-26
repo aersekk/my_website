@@ -80,31 +80,38 @@ params:
   tiles:
     enable: yes
     showcase:
-    #Biography
       - image: PictureforR.jpeg
         subtitle: A short summary about my long life
         title: About me
         url: blogs/blog4
-    #Hobbies
       - image: hobbies.jpg
         subtitle: Things that I love to do
         title: My hobbies
         url: blogs/blog2
-    #Education History
       - image: lbs.jpg
         subtitle: A short summary of my long history of education
         title: Education
         url: blogs/blog5
-    # CV
       - image: pic06.jpg
         subtitle: Curriculum Vitae
         title: My Professional Experience
         url: blogs/curriculum.pdf
-    #Teset
-      - image:
-        subtitle: Test
-        title: What
-        url: blogs/Test.rmd
+      - image: pic06.jpg
+        subtitle: Things that I have done in the past
+        title: My personal projects
+        url:
+      - image: pic06.jpg
+        subtitle: Response to a sustainability tax
+        title: LBS Consulting Club Case Competition Round 1
+        url: blogs/LBSR1.pdf
+      - image: pic06.jpg
+        subtitle: Developing a 5 year plan for Emporial's sustinability strategy
+        title: LBS Consulting Club Case Competition Round 2
+        url: blogs/LBSR2.pdf
+      - image: essay.jpg
+        subtitle: My best work at university, based on a personal interest.
+        title: How can machine learning methods be used to objectively measure the presence and severity of tinnitus? What are its implications?  
+        url: blogs/essay.pdf
 
   two:
     #buttonText: Get Started
@@ -113,20 +120,4 @@ params:
     I travel a lot, and it is something that I cherish about having been able to do growing up. If I had to highlight the favourite country that\
     I have been to it would be Kenya.In my free time, I enjoy golfing, listening to techno music and working out."
     title: Something funny about me
-    
-  tiles:
-    enable: yes
-    showcase:
-      - image: essay.jpg
-        title: Works that I am proud of
-        url:
-    
-      - image: essay.jpg
-        subtitle: My best work at university, based on a personal interest.
-        title: How can machine learning methods be used to objectively measure the presence and severity of tinnitus? What are its implications?  
-        url: blogs/essay.pdf
-  
-      - image:
-        subtitle:
-        title:
-        url:
+ 
