@@ -99,7 +99,7 @@ params:
       - image: pic06.jpg
         subtitle: Things that I have done in the past
         title: My personal projects
-        url:
+        url: blogs/Test.Rmd
       - image: pic06.jpg
         subtitle: Response to a sustainability tax
         title: LBS Consulting Club Case Competition Round 1
