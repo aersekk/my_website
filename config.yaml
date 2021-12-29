@@ -9,7 +9,7 @@ params:
     buttonText: Get Started
     subtitle: |-
       MFA2022 Student at LBS, Warwick Graduate
-    title: Hi, my name is Akos. Welcome to a website covering some of my adventures!
+    title: Hi, my name is Ákos. Welcome to a website covering some of my adventures!
   blog: {}
   contact:
     address:
@@ -99,7 +99,7 @@ params:
       - image: pic06.jpg
         subtitle: Things that I have done in the past
         title: My personal projects
-        url: blogs/Test.Rmd
+        url: blogs/Test
       - image: pic06.jpg
         subtitle: Response to a sustainability tax
         title: LBS Consulting Club Case Competition Round 1
@@ -112,7 +112,6 @@ params:
         subtitle: My best work at university, based on a personal interest.
         title: How can machine learning methods be used to objectively measure the presence and severity of tinnitus? What are its implications?  
         url: blogs/essay.pdf
-
   two:
     #buttonText: Get Started
     enable: yes
