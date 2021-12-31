@@ -8,13 +8,11 @@ categories:
 - ''
 - ''
 ---
-```{r}
-library(knitr)
+
+```{r echo=FALSE, out.width="100%", fig.align='center'}
+knitr::include_graphics("/Users/akosersek/Desktop/LBS/my_website/static/img/blogs/hobby_sports.jpg")
 ```
 
-```{r}
-include_graphics("/Users/akosersek/Desktop/LBS/my_website/static/img/blogs/hobby_sports.jpg")
-```
 
 ## Dear reader, welcome to my hobbies section!
 

@@ -87,7 +87,7 @@ params:
       - image: hobbies.jpg
         subtitle: Things that I love to do
         title: My hobbies
-        url: blogs/blog2
+        url: blogs/Hobby
       - image: lbs.jpg
         subtitle: A short summary of my long history of education
         title: Education
