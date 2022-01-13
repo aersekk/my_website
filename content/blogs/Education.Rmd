@@ -1,6 +1,9 @@
 ---
 title: "Education"
-output: html_document
+output: 
+  bookdown::html_document2:
+    keep_md: TRUE
+    self-contained: TRUE
 ---
 On this page I present my education history in chronological order, starting from most recent.
 
