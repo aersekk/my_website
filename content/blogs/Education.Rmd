@@ -1,0 +1,47 @@
+---
+title: "Education"
+output: html_document
+---
+On this page I present my education history in chronological order, starting from most recent.
+
+```{r}
+knitr::include_graphics('/Users/akosersek/Downloads/LbsLogo.jpg')
+```
+
+1. London Business School
+
+Currently I am attending London Business School's Masters in Financial Analysis programme, with an expected graduation date of July 2022. My subjects include, but are not limited to: Corporate Finance, Securities Valuation and Financial Modelling, and Distressed Investing among others.
+
+```{r}
+knitr::include_graphics('/Users/akosersek/Downloads/wbsLogo.png')
+```
+
+2. Warwick Business School
+
+I completed my Bachelors at Warwick Business School studying Bsc Management with Finance. I was able to graduate with a First Class Honours degree classificant across the four years. Apart from academics I was able to immerse myself in the student life by participating in multiple societies, such as being part of Warwick Congress's Careers & Sponsorship team.
+
+```{r}
+knitr::include_graphics('/Users/akosersek/Downloads/Logo_UPF.jpg')
+```
+
+3. Universitat Pompeu Fabra
+
+Whilst at WBS, I was able to complete an exchange year at Universitat Pompeu Fabra, in Barcelona, Spain. There, I was a part of the Business and Economic Sciences Department. During my year at UPF, I successfully joined the competitive student run investment club of the university, and travelled to many places around Catalonia.
+
+```{r}
+knitr::include_graphics('/Users/akosersek/Downloads/LCS.png')
+```
+
+4. Lincoln Community School
+
+I went to an American International School called Lincoln Community School during grades 9-12 in Accra, Ghana. I developed a large part of who I am today during these four years. I traveled to 15 different African countries, represented my school in 4 different international swimming competitions, and actively volunteered with local special schools and orphanages amongst many other things.
+
+```{r}
+knitr::include_graphics('/Users/akosersek/Downloads/Fazekas.png')
+```
+
+5. Budapesti Fazekas Mihály Ált. Isk. és Gim.
+
+I attended the strongest secondary school of Hungary for grades 7 and 8. Here I was studying amongst some of the brighest young minds in Hungary. And interesting fact is that I never stopped attending this secondary school after moving to Ghana. I completed all 12 grades in the hungarian educational system, as well as abroad, as a home schooled student.
+
+
