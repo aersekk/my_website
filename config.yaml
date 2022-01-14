@@ -84,14 +84,14 @@ params:
         subtitle: A short summary about my long life
         title: About me
         url: blogs/blog4
-      - image: hobbies.jpg
+      - image: Hobby.JPG
         subtitle: Things that I love to do
         title: My hobbies
         url: blogs/Hobby
       - image: lbs.jpg
         subtitle: A short summary of my long history of education
         title: Education
-        url: blogs/blog5
+        url: blogs/Education
       - image: pic06.jpg
         subtitle: Curriculum Vitae
         title: My Professional Experience
