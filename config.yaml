@@ -81,10 +81,10 @@ params:
     enable: yes
     showcase:
       - image: PictureforR.jpeg
-        subtitle: A short summary about my long life
+        subtitle: A sphort summary about my long life
         title: About me
         url: blogs/blog4
-      - image: Hobby.JPG
+      - image: Hobby.png
         subtitle: Things that I love to do
         title: My hobbies
         url: blogs/Hobby

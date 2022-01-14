@@ -8,7 +8,6 @@ draft: false
 keywords: ""
 slug: blog4
 title: About me
-picture = 
 ---
 
 # Dear Reader
