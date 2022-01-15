@@ -4,7 +4,7 @@ author: 'Akos Ersek'
 date: 'January 2022'
 output:
     html_document
-slug: blog4
+slug: AboutMe
 ---
 
 # Mini biography
