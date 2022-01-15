@@ -3,8 +3,7 @@ title: 'Education'
 author: 'Akos'
 date: '14/01/2022'
 output: 
-  html_document:
-    self_contained: true
+  html_document
 slug: Education
 ---
 On this page I present my education history in chronological order, starting from most recent.

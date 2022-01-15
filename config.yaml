@@ -7,7 +7,7 @@ disqusShortname: ''
 params:
   banner:
     buttonText: Get Started
-    subtitle
+    subtitle:
       MFA2022 Student at LBS, Warwick Graduate
     title: Hi, my name is Ákos. Welcome to a website about my adventures in life.
   blog: {}
