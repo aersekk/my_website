@@ -84,7 +84,7 @@ params:
         subtitle: A short summary about my long life
         title: About me
         url: blogs/AboutMe
-      - image: Hobby-2.jpg
+      - image: Hobby2.jpg
         subtitle: Things that I love to do
         title: My hobbies
         url: blogs/Hobby
