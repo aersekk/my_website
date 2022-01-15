@@ -3,10 +3,6 @@ title: "My Hobbies"
 output: html_document
 ---
 
-<center>
-![A perfect golf swing](https://www.golfdigest.com/content/dam/images/golfdigest/fullset/2018/06/11/5b1e78605dd1123161bf518a_Tiger-Woods-swing-sequence-tout.jpg)
-</center>
-
 
 # Dear reader, welcome to my hobbies section!
 

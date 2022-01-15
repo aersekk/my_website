@@ -9,7 +9,7 @@ slug: AboutMe
 
 # Mini biography
 
-## intro
+## Intro
  
 My name is Akos Ersek and I was born on July 12th, 1998 in Budapest, Hungary, the city known best for its Parliament.
 
@@ -45,8 +45,9 @@ My life came to a sudden change when at the age of 13 my family moved to Ghana, 
 I studied in an international educational system from the age of 14-18, which allowed me to study interesting subjects such as Economics, Global Politics, and Media & Design.
 
 To close this chapter, heres a gorgeous picture of the swimming pool I spent 3 of my mornings almost every week for 3.5 years. 
-
+<center>
 ![](https://www.lincoln.edu.gh/uploaded/photos/News_Story_Photos/2014-2015_SY/2015_February/SwimMeetFebruary20151.jpg)
+</center>
 
 #### University
 
