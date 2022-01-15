@@ -7,9 +7,9 @@ slug: Education
 ---
 On this page I present my education history in chronological order, starting from most recent.
 
-```{r}
-knitr::include_graphics('/Users/akosersek/Downloads/LbsLogo.jpg')
-```
+
+![Logo of LBS](/Users/akosersek/Downloads/LbsLogo.jpg)
+
 
 1. London Business School
 

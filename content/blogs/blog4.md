@@ -1,35 +1,44 @@
 ---
-categories:
-- ""
-- ""
-date: "2017-10-31T22:42:51-05:00"
-description: Biography
-draft: false
-keywords: ""
+title: "About me"
+author: "Akos Ersek"
+date: "January 2022""
+output:
+    html_document:
+        highlight: zenburn
+        theme: flatly
+        toc: yes
+        toc_float: yes
+    word_document:
+        toc: yes
 slug: blog4
-title: About me
 ---
 
-# Dear Reader
+# Mini biography
 
-## Welcome to a quick summary of my early years, very exciting times.
+## intro
  
-I was born in **Hungary**, the country mainly known for its [Goulash soup](https://en.wikipedia.org/wiki/Goulash), and the gorgeous Parliament. 
+My name is Akos Ersek and I was born on July 12th, 1998 in Budapest, Hungary, the city known best for its Parliament.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/2/22/Exterior_view_-_daytime.jpg)
 
+I consider myself to be a curious-minded person, full of energy and ambition. I am always doing something, and I am hardly ever inside my house. I love finding new adventures and trying new things. Two things that I like to do most: to travel and to move. Throughout my life I was fortunate to be able to visit over 40 countries and to live in 4 different countries by the age of 21. How I managed to do all of this is a long story that I will try to summarise below.
+
+## My early years
+
 I actually grew up in a small town next to Budapest where I spent the first 10 years of my life. I attended  an elementary school called Huzella Tivadar Általanos Iskola, named after a famous Hungarian Biologist and Reseracher.
 
+<center>
 ![](https://upload.wikimedia.org/wikipedia/commons/0/0e/Huzella_Tivadar.jpg)
+</center>
 
 I started learning English and doing sports early on, which lead me to try a lot of interesting sports throughout my life. These include:
 
-    1. Basketball
-    2. Skiing
-    3. Swimming
-    4. Track & field
-    5. Handball
-    6. Golf
+1. Basketball
+2. Skiing
+3. Swimming
+4. Track & field
+5. Handball
+  6. Golf
     
 quite the range of sports.
 

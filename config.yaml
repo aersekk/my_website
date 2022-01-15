@@ -9,7 +9,7 @@ params:
     buttonText: Get Started
     subtitle: |-
       MFA2022 Student at LBS, Warwick Graduate
-    title: Hi, my name is Ákos. Welcome to a website covering some of my adventures!
+    title: Hi, my name is Ákos. Welcome to a website about my adventures in life.
   blog: {}
   contact:
     address:
@@ -81,10 +81,10 @@ params:
     enable: yes
     showcase:
       - image: PictureforR.jpeg
-        subtitle: A sphort summary about my long life
+        subtitle: A short summary about my long life
         title: About me
         url: blogs/blog4
-      - image: Hobby.png
+      - image: Hobby-2.jpg
         subtitle: Things that I love to do
         title: My hobbies
         url: blogs/Hobby
